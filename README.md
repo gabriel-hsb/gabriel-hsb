@@ -1,7 +1,36 @@
-<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Me chamo Gabriel Henrique!</h1>
+# Olá, me chamo Gabriel Henrique 👋
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-hsb&color=lightgrey" alt="Profile views" /> </p>
 
-- 🔥 Atualmente migrando para a área de Desenvolvimento Front End
+**🔥 Atualmente estou migrando para a área de Desenvolvimento Front End**
+
+<div>
+  <a href="https://github.com/gabriel-hsb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-hsb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-hsb&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <!-- <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
+  <!-- <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <!-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> -->
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <!-- <img align="center" alt="Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> -->
+</div>
+
+##
+
+Fale comigo 👇
+
+ <div> 
+   <a href = "mailto:ghbranco6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      
+ 
+</div>
 
 <!-- - 🔭 I’m currently working at [nomeEmpresa](linkGitHubEmpresa) -->
 
