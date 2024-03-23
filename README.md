@@ -8,11 +8,17 @@
 - 👨‍💻 Estou aprendendo e me aprimorando em React, HTML, CSS e Bootstrap.
 - 📚 Sempre em busca de novos desafios e aprendizados na área de tecnologia.
 
-<div>
-  <a href="https://github.com/gabriel-hsb">
- <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-hsb&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>-->
-  
-</div>
+## Projetos no Vercel 🚀
+
+Aqui estão alguns dos meus principais projetos hospedados no Vercel:
+
+- [🧮 Uma Calculadora de Médias programada em JavaScript](https://ghsb-js-calc-media.vercel.app/)
+
+- [🚲 Bikcraft: um site completo para compra de Bicicletas e Seguros, feito com HTML e CSS](https://ghsb-bikcraft.vercel.app/)
+
+- [📝 Uma lista de tarefas, utilizando Bootstrap e Vue](https://ghsb-vue-todo-list.vercel.app/)
+
+Não esqueça de conferir meus repositórios fixados logo abaixo!
     
 ## Linguagens e Ferramentas 🛠️
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-hsb&layout=compact&langs_count=7&theme=tokyonight"/>
