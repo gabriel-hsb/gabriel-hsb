@@ -5,7 +5,7 @@
 ## Sobre mim 🧑‍💻
 🔥 Atualmente estou migrando para a área de Desenvolvimento Front End.
 
-- 👨‍💻 Estou aprendendo e me aprimorando em React, HTML, CSS e Bootstrap.
+- 👨‍💻 Estou aprendendo e me aprimorando em React, TypeScript e Tailwind.
 - 📚 Sempre em busca de novos desafios e aprendizados na área de tecnologia.
 
 ## Projetos no Vercel 🚀
