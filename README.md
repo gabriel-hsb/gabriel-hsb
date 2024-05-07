@@ -1,14 +1,12 @@
 # Olá, me chamo Gabriel Henrique 👋
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-hsb&color=lightgrey" alt="Profile views" /> </p> -->
-
 ## Sobre mim 🧑‍💻
 🔥 Atualmente estou migrando para a área de Desenvolvimento Front End.
 
 - 👨‍💻 Estou aprendendo e me aprimorando em React, TypeScript e Tailwind.
 - 📚 Sempre em busca de novos desafios e aprendizados na área de tecnologia.
 
-## Projetos no Vercel 🚀
+## Projetos 🚀
 
 Aqui estão alguns dos meus principais projetos hospedados no Vercel:
 
@@ -29,9 +27,13 @@ Não esqueça de conferir meus repositórios fixados logo abaixo!
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
-##
-
 ## Fale comigo 📧
-<div> 
-  <a href="mailto:ghbranco6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
-</div>
+<button> 
+  <a href="mailto:ghbranco6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"></a>
+</button>
+
+<button>
+    <a href="https://www.linkedin.com/in/gabriel-henrique-a650612ba/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</button>
