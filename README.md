@@ -49,6 +49,8 @@ Não esqueça de conferir meus repositórios fixados logo abaixo!
 
 Here are some of my main projects hosted on Vercel:
 
+- [🐕 A Social Media made for Dogs, with external API integration](https://ghsb-origamid-dogs.vercel.app/)
+
 - [🧮 A Grade Calculator programmed in JavaScript](https://ghsb-js-calc-media.vercel.app/)
 
 - [🚲 Bikcraft: a complete website for buying Bicycles and Insurance, made with HTML and CSS](https://ghsb-bikcraft.vercel.app/)
