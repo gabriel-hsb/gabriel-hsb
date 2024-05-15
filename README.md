@@ -42,8 +42,6 @@ Não esqueça de conferir meus repositórios fixados logo abaixo!
 # Hello, my name is Gabriel Henrique 👋
 
 ## About me 🧑‍💻
-🔥 Currently, I'm transitioning into the Front End Development field.
-
 - 👨‍💻 I'm learning and improving in React, TypeScript, and Tailwind.
 - 📚 Always seeking new challenges and learning opportunities in the technology field.
 
