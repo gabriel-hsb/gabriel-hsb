@@ -42,7 +42,7 @@ Não esqueça de conferir meus repositórios fixados logo abaixo!
 # Hello, my name is Gabriel Henrique 👋
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=4000&pause=500&color=FBFCFD&background=0A0C1000&center=true&vCenter=true&random=false&width=435&lines=Front+end+developer;TypeScript;React;Tailwind;NextJS)](https://git.io/typing-svg" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=4000&pause=500&color=FBFCFD&background=0A0C1000&center=true&vCenter=true&random=false&width=435&lines=Front+end+developer;TypeScript;React;Tailwind;NextJS" />
 </p>
 
 ## About me 🧑‍💻
