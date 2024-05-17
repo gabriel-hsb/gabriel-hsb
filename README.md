@@ -46,11 +46,12 @@ Não esqueça de conferir meus repositórios fixados logo abaixo!
 </p>
 
 ## About me 🧑‍💻
--  I'm learning and improving in React, NextJS, TypeScript, and Tailwind.
--  My goal is to become a Full Stask Developer
--  I've been studying UX/UI Design in my free time
+- 21 years old. currently living in Brazil
+- I'm learning and improving in React, NextJS, TypeScript, and Tailwind.
+- My goal is to become a Full Stask Developer
+- I've been studying UX/UI Design in my free time
 
-## Projects 🚀
+## My Projects 🚀
 
 Here are some of my main projects hosted on Vercel:
 
