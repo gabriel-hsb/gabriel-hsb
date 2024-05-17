@@ -46,8 +46,9 @@ Não esqueça de conferir meus repositórios fixados logo abaixo!
 </p>
 
 ## About me 🧑‍💻
-- 👨‍💻 I'm learning and improving in React, TypeScript, and Tailwind.
-- 📚 Always seeking new challenges and learning opportunities in the technology field.
+-  I'm learning and improving in React, NextJS, TypeScript, and Tailwind.
+-  My goal is to become a Full Stask Developer
+-  I've been studying UX/UI Design in my free time
 
 ## Projects 🚀
 
