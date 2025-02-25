@@ -14,9 +14,7 @@
 Here are some of my main projects hosted on Vercel:
 
 - [🗺️ Mundus: discover the world with my favourite project](https://mundus.vercel.app/)
-- 
 - [🐕 A Social Media made for Dogs, with external API integration](https://ghsb-origamid-dogs.vercel.app/)
-
 - [🤓 A Color Guessing Game made in React](https://guess-the-hex-game.vercel.app)
 
 Don't forget to check out my pinned repositories below!
