@@ -13,13 +13,11 @@
 
 Here are some of my main projects hosted on Vercel:
 
+- [🗺️ Mundus: discover the world with my favourite project](https://mundus.vercel.app/)
+- 
 - [🐕 A Social Media made for Dogs, with external API integration](https://ghsb-origamid-dogs.vercel.app/)
 
 - [🤓 A Color Guessing Game made in React](https://guess-the-hex-game.vercel.app)
-
-- [🚲 Bikcraft: a complete website for buying Bicycles and Insurance, made with HTML and CSS](https://ghsb-bikcraft.vercel.app/)
-
-- [📝 A to-do list, using Bootstrap and Vue](https://ghsb-vue-todo-list.vercel.app/)
 
 Don't forget to check out my pinned repositories below!
     
